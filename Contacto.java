@@ -4,6 +4,7 @@ public class Contacto implements Comparable {
 	
 	private String telefono;
 	private String nombre;
+	private String antonio;
 	
 	public Contacto(String nombre, String telefono) {
 		
