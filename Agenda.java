@@ -55,6 +55,10 @@ public class Agenda
 		//Actualizamo el numero de contactos
 		numContactos++;
 	}
+	public void cambio3()
+	{
+		
+	}
 	public void leere()
 	{
 		
