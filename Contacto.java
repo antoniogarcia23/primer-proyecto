@@ -2,10 +2,12 @@ package arraydinamico;
 
 public class Contacto implements Comparable {
 	/*
-	 * ESTA CLASE ES UN CONTACTO
+	 * ESTA CLASE ES UN CONTACTO.
+	 * 
 	 */
 	private String telefono;
 	private String nombre;
+	private String antonio;
 	
 	public Contacto(String nombre, String telefono) {
 		
