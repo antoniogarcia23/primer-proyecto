@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Agenda
 {
 	/**
-	 * Atributos cambiados por antonio.
+	 * Atributos cambiados por antonio..
 	 */
 	private int numContactos;
 	private Contacto array[];	
