@@ -29,6 +29,9 @@ public class Agenda
 		numContactos = 0;
 		array = new Contacto[numContactos];
 	}
+	public void prueba() {
+		
+	}
 	
 	/**
 	 * unElementoMas es un método que pide memoria para un elemento más
