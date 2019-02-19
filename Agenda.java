@@ -32,7 +32,7 @@ public class Agenda
 		array = new Contacto[numContactos];
 	}
 	public void prueba() {
-		//prueba para git
+		//prueba para git practica 6.
 	}
 	
 	/**
