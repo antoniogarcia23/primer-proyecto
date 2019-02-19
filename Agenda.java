@@ -3,7 +3,7 @@ package arraydinamico;
 import java.util.Scanner;
 
 /*
- * victor hora 9:50
+ * victor hora 9:50.
  */
 
 /**
