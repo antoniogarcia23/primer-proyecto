@@ -2,6 +2,10 @@ package arraydinamico;
 
 import java.util.Scanner;
 
+/*
+ * victor hora 9:50
+ */
+
 /**
  * Codigo fuente para manipular una agenda de contactos 
  * Utilizando una array dinámico
