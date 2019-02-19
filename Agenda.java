@@ -15,10 +15,11 @@ import java.util.Scanner;
 public class Agenda
 {
 	/**
-	 * Atributos	
+	 * Atributos.
 	 */
 	private int numContactos;
 	private Contacto array[];	
+	private Sting "antonio";
 	
 	/**
 	 * Constructor
