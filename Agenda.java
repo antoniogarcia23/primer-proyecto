@@ -30,7 +30,7 @@ public class Agenda
 		array = new Contacto[numContactos];
 	}
 	public void prueba() {
-		
+		//prueba para git
 	}
 	
 	/**
